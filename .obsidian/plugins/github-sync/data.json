@@ -1,6 +1,6 @@
 {
-  "remoteURL": "https://github.com/dalezhang93/obsidian_coder",
+  "remoteURL": "https://github.com/dalezhang93/obsidian-physical",
   "gitLocation": "",
-  "syncinterval": 0,
+  "syncinterval": 1440,
   "isSyncOnLoad": false
 }
