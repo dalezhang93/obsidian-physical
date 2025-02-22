@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "热力学/热力学.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -179,7 +179,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "7ccb4162ce8aa42b",
+  "active": "2d648ae4845d1bf8",
   "lastOpenFiles": [
     "光学/透镜.md",
     "电路图.md",
