@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "热力学/热力学.md",
+                "file": "物理史.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "热力学"
+              "title": "物理史"
             }
           }
         ],
@@ -181,11 +181,11 @@
   },
   "active": "2d648ae4845d1bf8",
   "lastOpenFiles": [
-    "光学/透镜.md",
-    "电路图.md",
     "牛顿万有引力.md",
-    "热力学/热力学.md",
     "物理史.md",
+    "电路图.md",
+    "热力学/热力学.md",
+    "光学/透镜.md",
     "Pasted image 20250221160353.png",
     "Pasted image 20250221160058.png",
     "Pasted image 20250221160042.png",
